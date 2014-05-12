@@ -1,0 +1,26 @@
+// execute cpba
+
+Store.StringAt.cpbaString = "";
+
+Store.At.cpbaString.AppendString = "/export/sw/python-2.7.2/bin/python /home/pinnbeta/cpba/trunk/src/python/pinnacle.py ";
+Store.At.cpbaString.AppendString = "--root=$PATIENTS/";
+Store.At.cpbaString.AppendString = PatientDirectory;
+
+Store.At.cpbaString.Save = "/home/pinnbeta/cpba/temp_files/cpba_command.txt";
+
+WaitMessage = "Please wait, computing CPBA proton dose...";
+Echo = Store.StringAt.cpbaString;
+SpawnCommand = Store.StringAt.cpbaString;
+WaitMessageOff = "";
+Store.FreeAt.cpbaString = "";
+
+Store.At.ReloadScript = SimpleString {
+	AppendString = "/home/pinnbeta/cpba/temp_files/";
+	AppendString = "CPBA.Script";
+};
+
+ExecuteNow = Store.At.ReloadScript.String;
+
+Store.FreeAt.ReloadScript = "";
+
+TrialList.Current.BeamList.Current.DoseVolume=\BOB{B}:/home/pinnbeta/cpba/temp_files/PBA_PinnacleDoseGrid.bin\;

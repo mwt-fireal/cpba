@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core
+END
+pinnacle.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/pinnacle.h
+END
+interp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/interp.cpp
+END
+init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/init.cpp
+END
+scatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/scatter.cpp
+END
+cpba.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/cpba.cpp
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/interp.h
+END
+out.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/out.cpp
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/init.h
+END
+scatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/scatter.h
+END
+raytrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/raytrace.cpp
+END
+cpba.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/cpba.h
+END
+out.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/out.h
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/util.cpp
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/data.h
+END
+raytrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/raytrace.h
+END
+mat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/mat.cpp
+END
+monte.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/monte.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/util.h
+END
+mat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/mat.h
+END
+monte.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/monte.h
+END
+pinnacle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/pinnacle.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/marybird/!svn/ver/16/trunk/cpba_toolset/src/core/Makefile
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/core/resource.h
+END

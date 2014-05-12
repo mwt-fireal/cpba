@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe
+END
+dose_scale
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe/dose_scale
+END
+dose_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe/dose_scale.cpp
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe/main
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe/main.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/marybird/!svn/ver/1/trunk/cpba_toolset/src/exe/Makefile
+END

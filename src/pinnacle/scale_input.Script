@@ -1,0 +1,12 @@
+Store.FloatAt.DoseScaleFactor = 2.0;
+
+KeyDependencyList.CreateChild = ""; 
+
+KeyDependencyList.Last = {
+	Name = "ScaleFactor";
+	KeyString = "Store.At.DoseScaleFactor.Value";
+	AddAction = "Script.ExecuteNow = #/home/pinnbeta/cpba/1.1c/src/pinnacle/scale.Script";
+};
+
+WindowList.MyStoreEditor.CreateStoreEditor = "Store.Address";
+WindowList.MyStoreEditor.IsModal = 1;

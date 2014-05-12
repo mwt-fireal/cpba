@@ -1,0 +1,28 @@
+// execute dose scale
+
+KeyDependencyList.ScaleFactor.Destroy = "";
+WindowList.MyStoreEditor.Unrealize = "";
+
+Store.StringAt.cpbaString = "";
+
+Store.At.cpbaString.AppendString = "/export/sw/python-2.7.2/bin/python /home/pinnbeta/cpba/1.1c/src/python/scale.py ";
+Store.At.cpbaString.AppendString = "--root $PATIENTS/";
+Store.At.cpbaString.AppendString = PatientDirectory ;
+Store.At.cpbaString.AppendString = " --scalefactor";
+Store.At.cpbaString.AppendString = Store.At.DoseScaleFactor.Value;
+
+
+Store.At.cpbaString.Save = "/home/pinnbeta/cpba/temp_files/cpba_command.txt";
+
+WaitMessage = "Please wait, scaling dose...";
+Echo = Store.StringAt.cpbaString;
+SpawnCommand = Store.StringAt.cpbaString;
+WaitMessageOff = "";
+
+Store.FreeAt.cpbaString = "";
+
+Store.StringAt.ReloadScript = "/tmp/cpba/SCALE.Script";
+ExecuteNow = Store.At.ReloadScript.String;
+
+Store.FreeAt.ReloadScript = "";
+Store.FreeAt.DoseScaleFactor = "";
